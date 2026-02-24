@@ -1,0 +1,101 @@
+profile_id,previous_title,current_title,previous_company,current_company,industry,location,transition_year
+1,Software Engineering Analyst,Data Analyst,Accenture Federal Services,Moneta,Data Analytics,"Missouri, MO",2024
+2,Student Data Scientist,Senior Data Analyst,Cox Communications,The Home Depot,Data Analytics,"Atlanta, GA",2022
+3,Data Analyst Intern,Data Analyst,Wisers Informtion Limited,Merchants Bank IN,Data Analytics,,2024
+4,Data Analyst ,Senior Analyst,Premier Logistics S.A,Independent Purchasing Cooperative,Data Analytics,"Miami, FL",2023
+5,Reading Program Mentee,Data Analyst,UC Santa Barbara,"HR Unlimited, Inc",Data Analytics,"California, CA",2024
+6,Leader Student-Worker,Data Analyst,Lyon College,Washington University,Data Analytics,"Missouri, MO",2023
+7,BI & Strategy Intern,Data Analyst,AXS,Nuvocargo,Data Analytics,"Ciudad de MŽxico, MX",2025
+8,Data Analyst ,Data Analyst,Dixon Resources Unlimited,"KiwiCo, Inc",Data Analytics,"California, CA",2025
+9,Big Data Analyst,Data Analyst,Cognizant,Eli Lilly and Company,Data Analytics,"New Jersey, NJ",2025
+10,Teaching Assistant,Data Analyst,San Diego State University,Realty Income Corporation,Data Analytics,"San Diego, CA",2025
+11,,Analyst,,Comcast,Data Analytics,,
+12,Financial Services Intern,Data Science Analyst,Hencorp Valores,Insigneo,Data Analytics,"New York, NY",2023
+13,Seller,Data Analyst,FIGARET,GE Vernova,Data Analytics,"Paris, FR",2024
+14,Content Marketing and Analytics Intern,Sales & Revenue Systems Analyst,7QUBES,InterContinental ,Data Analytics,"Chicago, IL",2023
+15,Advanced AI Data Trainer,Data & Insights Analyst,Invisible,Greenpeace Africa,Data Analytics,"Johannesburg, SA",2021
+16,Data Analyst ,Data Analyst,Ally,Reserv,Data Analytics,"Charlotte, NC",2026
+17,Store Associate,IT Data Analyst,Dirty Dough,E3,Data Analytics,"Dallas, TX",2025
+18,"Data Analyst, Internal Audit",Data Analyst,STERIS,Xendoo,Data Analytics,"Miami, FL",2025
+19,Market Researcher,Business Data Analyst,FŽlix,Sigo S.A,Data Analytics,"Miami, FL",2023
+20,Machine Learning Manager,Medical Economics Data Analyst,UCLA,The Oncology Institute,Data Analytics,"Cerritos, CA",2023
+21,Supply Chain Analyst,Data Analyst,Lowe's Companies,KashKlik,Data Analytics,,2022
+22,Data Analyst ,Financiel Planning Analyst,ALTIO,Iberia Foods,Data Analytics,"Miami, FL",2025
+23,Data Analyst ,Data Analyst Intern,Banco Aliado,Gipsy,Data Analytics,,2025
+24,Research Assistant,Industrial Engineering Intern,Northeastern University,Raytheon Technologies,Data Engineering,"Andover, MA",2025
+25,Business Development Associate,Data Consultant,ExecOnline,Altus Group,Data Analytics,"Tysons Corner, VA",2026
+26,Sports Marketing Intern,Data Analyst - Risk & Reporting,Federacion Paname–a de Fœtbol,The AES Corporation,Data Analytics,"Panama City, PA",2025
+27,Planning Analyst,Data Analyst,Marc Jacobs,Christian Louboutin,Data Analytics,"New York, NY",2024
+28,Quantitative Analyst,Hockey Operations Data Analyst,Evercore,St. Louis Blues,Data Analytics,"New York, NY",2025
+29,Forensics Analyst Senior Associate,Data Analyst,PwC,Meta,Data Analytics,"New York, NY",2024
+30,Data Analyst ,Analyst,ByteDance,DIA Associates,Data Analytics,"New York, NY",2024
+31,Innovation & Strategic Partnerships Intern,Senior Data Analyst,Orangetheory Fitness,Royal Caribbean Group,Data Analytics,"Miami, FL",2025
+32,Business Analyst Intern,Business Analyst,Capital One,Deloitte,Data Analytics,,2024
+33,Business Analyst,Data Analyst,Carrot Express,Royal Caribbean Group,Data Analytics,,2025
+34,Field Engineer,Data Analyst,Banco General,Kiewit,Data Analytics,"The Woodlands, TX",2025
+35,Audio Editor,Data Analyst,Ecuavisa,The Network EC,Data Analytics,"Miami, FL",2020
+36,Senior Data Analyst,Data Analyst,MiniMed,On Point Strategy,Data Analytics,,2025
+37,Business Data Analyst Coop,Business Analyst - IT Group Functions,Charles River Laboratories,Smith Nephew,Data Analytics,"Boston, MA",2024
+38,Research Scholar,AI Software Developer,University of Eastern Africa,Data Annotation 4U,Artificial Intelligence,"New York, NY",2025
+39,Research Assistant,Data Analyst,Saint Louis University,Henry M. Jackson Foundation,Data Analytics,"Washington, DC",2024
+40,Data Management,Supply Chain Analyst,Sherwood Bedding Group,Donsco Inc,Data Analytics,"Wrightsville, PA",2025
+41,Learning Assistant,Data Analyst,Boston University,Massachusetts Eye and Ear,Data Analytics,"Boston, MA",2022
+42,Finance Intern,Data Analyst,Urban Farmer,Urban Farmer,Data Analytics,"Manteno, IL",2025
+43,Data Analyst ,Data Analyst,Xlogic,MetLife,Data Analytics,,2025
+44,Data Analyst,Business Intelligence Analyst,Interbank,PenFred Credit Union,Data Analytics,"Dallas, TX",2025
+45,Director Financial and Data Analyst,Data Analyst,Axxa Group,VEK Analytics & PRV Consult,Data Analytics,"Caracas, VE",2012
+46,Data Analyst,Sales Analyst Intern,CITRIS,Ramp,Data Analytics,"New York, NY",2025
+47,Data Analyst,AI Data Annotation Specialist,HCLTech,TELUS Digital,Artificial Intelligence,,2025
+48,Data Scientist,Data Analyst,CHIK FIL A,Niswonger Foundation,Data Analytics,,2024
+49,Procurement Analyst,Customer Data Analyst,Zing Zang,Suntory Global Spirits,Data Analytics,"Chicago, IL",2023
+50,Senior Data Analyst,Senior Data Analyst,Microsoft,National Automotive Experts,Data Analytics,,2021
+51,Knack Tutor,Data Management Analyst ,Knack,University of Florida,Data Analytics,"Gainesville, FL",2025
+52,Senior Program Manager,Business Data Analyst,BrickRed Systems,Murdoch Services Inc,Data Analytics,"Washington, DC",2020
+53,Data Analyst Intern,Data Research Analyst,,InfoXite,Data Analytics,,2017
+54,Data Analytics Co-op,Senior Data Analyst,Northwestern Medicine,Pareto Intelligence,Data Analytics,"Chicago, IL",2022
+55,Manufacturing Engineer,Data Analyst,Cummins Inc,Copa Airlines,Data Analytics,"Columbus, IN",2025
+56,UX Designer ,Data Analyst,Dev Launchers,PICC,Data Analytics,"Shanghai, CN",2024
+57,Data Analyst,Data Analyst Manager,Radford University,Stax Payments,Data Analytics,"Orlando, FL",2024
+58,Data Analyst,Enterprise Analyst,Steel Key Capital,L3Harris Technologies,Data Analytics,,2025
+59,Research Associate,Data Analyst,Center for Global Development,,Data Analytics,,2025
+60,Technical System Analyst,Senior Analyst,Cigarette Racing Team,The Cigna Group,Data Analytics,,2024
+61,Business Intelligence Engineer,Senior Data Analyst,AWS,TextNow,Data Analytics,,2026
+62,,Data Analyst,,,Data Analytics,,2020
+63,Senior Financial Analyst,Data Analyst,CVS Health,MediGold,Data Analytics,"Harrisburg, PA",2021
+64,Marketing Consultant,Business Analyst,,Huntington National Bank,Data Analytics,"Chicago, IL",2025
+65,Logistics Processor,Business Analyst Intern,Nordstrom Rack,Miami-Dade Water and Sewer Department,Data Analytics,"Miami, FL",2025
+66,Strategy Leader,Business Analyst,Grupo Argos,Hult International Business School,Data Analytics,"Boston, MA",2023
+67,Managing Director,Data Analyst,Weber Shandwick,mPact Works LLC,Data Analytics,"Los Angeles, CA",2002
+68,Digital Marketing & Strategy Consultant,Principal Data Analyst,Allele Network,Patelco Credit Union,Data Analytics,"San Francisco, CA",2025
+69,Data Analyst,Data Analyst,Element Software Solutions,Silicon Software Technologies Inc,Data Analytics,"Dallas, TX",2024
+70,Data Analyst,IT Support Analyst Intern,CareerFoundry,LOG Pacific,Data Analytics,,2024
+71,Data Research Analyst,Business Data Analyst,Indiana University,Magna International,Data Analytics,"Troy, MI",2024
+72,Data Analyst,Business Analyst,Community Dreams Foundation,Parla Dynamics Inc,Data Analytics,,2024
+73,Data Analyst,Data Research Analyst,US Department of Defense,University of Arizona,Data Analytics,"Tucson, AZ",2023
+74,Management Accountant,Data Analyst,Muthaiga Country Club,Sevenett,Data Analytics,,2024
+75,Data Analyst,Senior Data Analyst,Artificial Inventions LLC,AIG,Data Analytics,"Dallas, TX",2023
+76,,Data Analyst,,Upwork,Data Analytics,,2020
+77,Senior Data Analyst,Senior Data Analyst,Abbott,"Ambac Financial Group, Inc",Data Analytics,"New York, NY",2023
+78,Senior Business Data Analyst,Data Analyst,Akro IT Technologies,LeChase Construction,Data Analytics,"New York, NY",2024
+79,Data Analyst,Senior Data Analyst,GEICO,PenFred Credit Union,Data Analytics,,2022
+80,,Data Analyst,,,Data Analytics,,2021
+81,Risk Data Analyst,Data Analyst,Hankey Group,Byte2AI,Data Analytics,"Los Angeles, CA",2023
+82,Technical Product Marketing Manager,Data Analyst,Supervised,d-Matrix,Data Analytics,"San Francisco, CA",2025
+83,IT Consultant,Data Scientist - Data Analyst,Naresh Arora & Gulrajani,Springboard,Data Science & Analytics,,2023
+84,Research Assistant,Business Analyst Student,Kyungsung University,Trine University,Data Analytics,"Detroit, MI",2023
+85,Data Engineer,Data Analyst,Vistra Energy,Humana,Data Analytics,,2021
+86,Data Analyst,Data Analyst,Bank of America,IQVIA,Data Analytics,"Phoenix, AZ",2022
+87,,Data Analyst,,JoulestoWatts Business Solutions,Data Analytics,,2019
+88,Research Assistant,Data Analyst,Texas Tech University,Royal Caribbean Group,Data Analytics,"Miami, FL",2024
+89,Q&A Expert,Data Scientist,Course Hero,Upwork,Data Science,,2023
+90,Staff Accountant,Data Analyst,US Exp Trucking Incorporated,Mintrans Incorporated,Data Analytics,"Chicago, IL",2023
+91,Data Analyst,Population Health Data Analyst,Advanced Health Technology Solutions,Advocare,Data Analytics,"New Jersey, NJ",2023
+92,Product Analyst,Data Analyst,MTS Group,Sberbank,Data Analytics,,2024
+93,Data Analyst,Business Data Analyst,Altoni Enterprise,Bluelith Energy,Data Analytics,,2023
+94,Senior Data Analyst,Lead Data Analyst,BMO U.S,Iksula,Data Analytics,,2025
+95,Data Processor,Data Scientist,Outlier,Trintech,Data Science,,2025
+96,Senior Data Analyst,Data Analyst,Accenture,The Cigna Group,Data Analytics,,2023
+97,Data Analyst,Data Analyst,GRABTHESITE,J.P. Morgan,Data Analytics,"Dallas, TX",2024
+98,Data Analyst,Financial Data Analyst,HCLTech,Cigna Healthcare,Data Analytics,,2024
+99,Marketing Intelligence Capstone Project,Data Analyst,7-Eleven,7-Eleven,Data Analytics,,2024
+100,Independent Business Owner,Data Analyst,Printstant Designs,Quote Now Apps,Data Analytics,"Louisville, KY",2020
